@@ -1,4 +1,4 @@
 # core-vocabulary
 The Link to the TEMS Core Vocabulary 
 
-[https://git.ebu.io/aim/tems](Actual repository available here)
+[Actual repository available here](https://git.ebu.io/aim/tems)
